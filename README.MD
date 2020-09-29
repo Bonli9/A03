@@ -9,8 +9,8 @@ Download  webstorm from <a href="https://www.jetbrains.com/student/">jetbrains</
 <ul>Connect your Github account with Webstorm</ul>
 <ul>Create a new project on the Webstorm main page</ul>
 
-#### <div align="justify">From there, you can start managing projects hosted on Github.
-## <div align="center">**Important terms**
+#### <div align="justify">From there, you can start managing projects hosted on Github.</div>
+## <div align="center">**Important terms**</div>
 ###<ul>**Branch**: Set of code changes with a unique name.</ul>
 ###<ul>**Clone**: A copy of a git remote repository to the local machine.</ul>
 ###<ul>**Commit**: Changes to one or more files in the branch.</ul>
