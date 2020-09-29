@@ -1,6 +1,6 @@
 # <div align="center">**Process of how to use Git and Github**</div>
 # <div>Webstorm directions</div>
-## **Steps**
+### **Steps**
 <ul>
 Download  webstorm from <a href="https://www.jetbrains.com/student/">jetbrains</a>
 </ul>
