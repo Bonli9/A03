@@ -24,9 +24,9 @@ Download  webstorm from <a href="https://www.jetbrains.com/student/">jetbrains</
 ###<ul>**Remote**: repository at a remote location.</ul>
 ###<ul>**Repository**: A directory or storage space where you find the projects.It is like a folder.</ul>
 **References**
-#####Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press
-##### <a href="https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories">About repositories</a>
-##### docs.github.com
+Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press
+ <a href="https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-repositories">About repositories</a>
+ docs.github.com
 
 
 
